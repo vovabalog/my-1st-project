@@ -4,7 +4,37 @@
     <meta charset="UTF-8">
     <title>Title</title>
 </head>
+
+<style type="text/css">
+
+   #gb{
+       position: absolute;
+       left:20px;
+       transition: all 1s ease;
+   }
+
+
+</style>
 <body>
 <p>efewgewgerg</p>
+<button id='gb' >Give nikos a bananna</button>
+
+<script type="text/javascript">
+
+    var arr = [0,1,2,3,4,5]
+    arr.forEach(function (i) {
+        console.log(i);
+    })
+
+    var btn = document.querySelector('#gb');
+    btn.addEventListener("click",function (event) {
+        console.log("nikos got the banadnana");
+      btn.style.left = "100px"
+    })
+
+
+</script>
+
+
 </body>
 </html>
