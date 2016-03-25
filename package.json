@@ -1,0 +1,22 @@
+{
+  "name": "bova-awesome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vovabalog/my-1st-project.git"
+  },
+  "keywords": [
+    "good-good"
+  ],
+  "author": "Vova + Nikos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vovabalog/my-1st-project/issues"
+  },
+  "homepage": "https://github.com/vovabalog/my-1st-project#readme"
+}
